@@ -1,0 +1,8 @@
+google.com
+123.111.123.0
+amazon.com
+123.145.123.1
+abc.com
+192.198.221.5
+youtube.com
+123.146.123.3

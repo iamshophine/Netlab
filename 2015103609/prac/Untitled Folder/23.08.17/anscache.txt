@@ -1,0 +1,6 @@
+www.google.com
+198.165.1.0
+www.amazon.com
+198.165.1.1
+www.netlab.com
+192.168.1.300

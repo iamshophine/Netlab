@@ -1,0 +1,2 @@
+www.yahoo.com
+ERROR : 404 NOT FOUND
